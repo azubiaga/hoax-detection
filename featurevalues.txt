@@ -1,0 +1,7 @@
+w2v
+multiw2v
+infersent
+social
+social_and_w2v
+social_and_multiw2v
+social_and_infersent

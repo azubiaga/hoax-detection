@@ -1,6 +1,6 @@
 # hoax-detection
 
-This is the code for the paper titled 'Early Detection of Hoaxes in Social Media Using Class-specific Embeddings'
+This is the code for the paper titled ' Early Detection of Hoaxes in Social Media Using Class-specific Embeddings'
 
 Preparation
 -----------
